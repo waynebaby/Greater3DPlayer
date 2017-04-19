@@ -5,6 +5,6 @@ Here are documents of Greater 3D Player
 
 Under Construction
 
-## Privicy:
+## Privacy:
 Greater 3D Player do not collect any infomation from user.
 Just Enjoy It!
